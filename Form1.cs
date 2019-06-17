@@ -121,7 +121,7 @@ namespace shareOkForms
                         }
                         else
                         {
-                            searchResult = "Yes";
+                            searchResult = "No Error";
                         }
                     }
                    
